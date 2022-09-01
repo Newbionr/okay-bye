@@ -2,7 +2,7 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
+				-25,
 				0
 			],
 			"loop": false,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				5,
-				-6
+				-15,
+				-7
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-20,
-				-51
+				-40,
+				-50
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,7 +35,7 @@
 		},
 		{
 			"offsets": [
-				-46,
+				-52,
 				27
 			],
 			"loop": false,
@@ -46,7 +46,7 @@
 		},
 		{
 			"offsets": [
-				-48,
+				-60,
 				-7
 			],
 			"loop": false,
@@ -57,7 +57,7 @@
 		},
 		{
 			"offsets": [
-				7,
+				-25,
 				19
 			],
 			"loop": false,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				-15,
-				-19
+				-35,
+				-29
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				-46,
-				27
+				-76,
+				67
 			],
 			"loop": false,
 			"fps": 24,
@@ -90,7 +90,7 @@
 		},
 		{
 			"offsets": [
-				-44,
+				-74,
 				22
 			],
 			"loop": false,
@@ -101,83 +101,50 @@
 		},
 		{
 			"offsets": [
-				-3,
-				5
+				-9,
+				11
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "hey",
+			"anim": "firstDeath",
 			"indices": [],
-			"name": "BF HEY"
+			"name": "BF dies"
 		},
 		{
 			"offsets": [
-				14,
-				18
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hurt",
-			"indices": [],
-			"name": "BF hit"
-		},
-		{
-			"offsets": [
-				-4,
-				0
+				-9,
+				4
 			],
 			"loop": true,
 			"fps": 24,
-			"anim": "scared",
+			"anim": "deathLoop",
 			"indices": [],
-			"name": "BF idle shaking"
+			"name": "BF Dead Loop"
 		},
 		{
 			"offsets": [
-				-10,
-				-16
+				-9,
+				65
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "dodge",
+			"anim": "deathConfirm",
 			"indices": [],
-			"name": "boyfriend dodge"
-		},
-		{
-			"offsets": [
-				294,
-				267
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "attack",
-			"indices": [],
-			"name": "boyfriend attack"
-		},
-		{
-			"offsets": [
-				-40,
-				-40
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "pre-attack",
-			"indices": [],
-			"name": "bf pre attack"
+			"name": "BF Dead confirm"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/BOYFRIEND",
 	"position": [
 		0,
-		350
+		300
 	],
 	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		128,
+		128,
+		128
 	],
 	"camera_position": [
 		0,

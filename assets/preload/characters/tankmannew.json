@@ -1,74 +1,74 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				134,
 				-211
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Sing Left"
+			"fps": 24,
+			"name": "Sing Left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				94,
 				-155
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Sing Up"
+			"fps": 24,
+			"name": "Sing Up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				104,
 				-300
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Sing Down"
+			"fps": 24,
+			"name": "Sing Down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				30,
 				-217
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Sing Right"
+			"fps": 24,
+			"name": "Sing Right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				30,
 				-190
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Idle"
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				133,
 				-221
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "Ugh...?",
-			"indices": [],
-			"name": "Ugh"
+			"fps": 24,
+			"name": "Ugh",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Tankman",
+	"image": "characters/TankmanNew",
 	"position": [
 		0,
 		0
