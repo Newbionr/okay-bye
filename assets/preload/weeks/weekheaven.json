@@ -1,0 +1,30 @@
+{
+	"storyName": "...",
+	"hideFreeplay": false,
+	"weekBackground": "heaven",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Uh",
+			"tankman",
+			[
+				20,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Heaven"
+}
